@@ -1,0 +1,15 @@
+body {
+    background-color: lightgreen;
+    
+}
+
+#main-title {
+    font-size: 50px;
+    font-family: Andale Mono, monospace;
+}
+
+.content{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-bottom: 12px;
+    
+}
