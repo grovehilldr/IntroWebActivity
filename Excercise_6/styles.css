@@ -6,6 +6,7 @@ body {
 #main-title {
     font-size: 50px;
     font-family: Andale Mono, monospace;
+    text-align: center;
 }
 
 .content{
